@@ -23,7 +23,7 @@ Run the following command to create a new cljs-app project:
 **Compile the clojurescript**
 
 ```bash
-lein clsbuild auto
+lein cljsbuild auto
 ```
 Leiningen will auto-compile any saved clojurescript updates (use ```lein cljsbuild once``` for single compilation).
 
